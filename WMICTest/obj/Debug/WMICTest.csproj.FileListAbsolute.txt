@@ -1,0 +1,24 @@
+D:\Program Files (x86)\visual studio 2013\Projects\WMICTest\WMICTest\bin\Debug\WMICTest.exe
+D:\Program Files (x86)\visual studio 2013\Projects\WMICTest\WMICTest\bin\Debug\WMICTest.pdb
+D:\Program Files (x86)\visual studio 2013\Projects\WMICTest\WMICTest\obj\Debug\WMICTest.Form1.resources
+D:\Program Files (x86)\visual studio 2013\Projects\WMICTest\WMICTest\obj\Debug\WMICTest.Properties.Resources.resources
+D:\Program Files (x86)\visual studio 2013\Projects\WMICTest\WMICTest\obj\Debug\WMICTest.csproj.GenerateResource.Cache
+D:\Program Files (x86)\visual studio 2013\Projects\WMICTest\WMICTest\obj\Debug\WMICTest.exe
+D:\Program Files (x86)\visual studio 2013\Projects\WMICTest\WMICTest\obj\Debug\WMICTest.pdb
+D:\Program Files (x86)\visual studio 2013\Projects\WMICTest\WMICTest\obj\Debug\WMICTest.Form2.resources
+D:\Program Files (x86)\visual studio 2013\Projects\WMICTest\WMICTest\bin\Debug\WMICTest.exe.config
+D:\Program Files (x86)\visual studio 2013\Projects\WMICTest\WMICTest\obj\Debug\WMICTest.FormDomainInfo.resources
+D:\Program Files (x86)\visual studio 2013\Projects\WMICTest\WMICTest\obj\Debug\WMICTest.FormContinue.resources
+D:\Program Files (x86)\visual studio 2013\Projects\WMICTest\WMICTest\obj\Debug\WMICTest.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\VisualStudioProject\Projects\WMICTest\WMICTest\bin\Debug\WMICTest.exe.config
+D:\Program Files (x86)\VisualStudioProject\Projects\WMICTest\WMICTest\obj\Debug\WMICTest.exe
+D:\Program Files (x86)\VisualStudioProject\Projects\WMICTest\WMICTest\obj\Debug\WMICTest.pdb
+D:\Program Files (x86)\VisualStudioProject\Projects\WMICTest\WMICTest\bin\Debug\WMICTest.exe
+D:\Program Files (x86)\VisualStudioProject\Projects\WMICTest\WMICTest\bin\Debug\WMICTest.pdb
+D:\Program Files (x86)\VisualStudioProject\Projects\WMICTest\WMICTest\obj\Debug\WMICTest.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\VisualStudioProject\Projects\WMICTest\WMICTest\obj\Debug\WMICTest.Form1.resources
+D:\Program Files (x86)\VisualStudioProject\Projects\WMICTest\WMICTest\obj\Debug\WMICTest.Form2.resources
+D:\Program Files (x86)\VisualStudioProject\Projects\WMICTest\WMICTest\obj\Debug\WMICTest.FormContinue.resources
+D:\Program Files (x86)\VisualStudioProject\Projects\WMICTest\WMICTest\obj\Debug\WMICTest.FormDomainInfo.resources
+D:\Program Files (x86)\VisualStudioProject\Projects\WMICTest\WMICTest\obj\Debug\WMICTest.Properties.Resources.resources
+D:\Program Files (x86)\VisualStudioProject\Projects\WMICTest\WMICTest\obj\Debug\WMICTest.csproj.GenerateResource.Cache

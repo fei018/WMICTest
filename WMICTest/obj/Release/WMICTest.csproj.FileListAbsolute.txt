@@ -1,0 +1,12 @@
+D:\Program Files (x86)\VisualStudioProject\Projects\WMICTest\WMICTest\bin\Release\WMICTest.exe.config
+D:\Program Files (x86)\VisualStudioProject\Projects\WMICTest\WMICTest\bin\Release\WMICTest.exe
+D:\Program Files (x86)\VisualStudioProject\Projects\WMICTest\WMICTest\bin\Release\WMICTest.pdb
+D:\Program Files (x86)\VisualStudioProject\Projects\WMICTest\WMICTest\obj\Release\WMICTest.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\VisualStudioProject\Projects\WMICTest\WMICTest\obj\Release\WMICTest.Form1.resources
+D:\Program Files (x86)\VisualStudioProject\Projects\WMICTest\WMICTest\obj\Release\WMICTest.Form2.resources
+D:\Program Files (x86)\VisualStudioProject\Projects\WMICTest\WMICTest\obj\Release\WMICTest.FormContinue.resources
+D:\Program Files (x86)\VisualStudioProject\Projects\WMICTest\WMICTest\obj\Release\WMICTest.FormDomainInfo.resources
+D:\Program Files (x86)\VisualStudioProject\Projects\WMICTest\WMICTest\obj\Release\WMICTest.Properties.Resources.resources
+D:\Program Files (x86)\VisualStudioProject\Projects\WMICTest\WMICTest\obj\Release\WMICTest.csproj.GenerateResource.Cache
+D:\Program Files (x86)\VisualStudioProject\Projects\WMICTest\WMICTest\obj\Release\WMICTest.exe
+D:\Program Files (x86)\VisualStudioProject\Projects\WMICTest\WMICTest\obj\Release\WMICTest.pdb
